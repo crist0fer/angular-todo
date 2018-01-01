@@ -1,0 +1,24 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "angular app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crist0fer/angular-todo.git"
+  },
+  "keywords": [
+    "angular",
+    "app",
+    "todo"
+  ],
+  "author": "chris styan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crist0fer/angular-todo/issues"
+  },
+  "homepage": "https://github.com/crist0fer/angular-todo#readme"
+}
