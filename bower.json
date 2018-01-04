@@ -1,0 +1,28 @@
+{
+  "name": "angular-todo",
+  "description": "angular app",
+  "main": "index.js",
+  "authors": [
+    "chris styan"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "app",
+    "todo"
+  ],
+  "homepage": "https://github.com/crist0fer/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.8",
+    "angular-route": "^1.6.8"
+    "a0-angular-storage": "^0.0.15"
+  }
+}
